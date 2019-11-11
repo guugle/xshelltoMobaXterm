@@ -4,5 +4,7 @@
 
 ## 使用说明
 1、如果是个人免费版的保存的session有限制12个
+
 2、运行指令 python main ./Session > xshell.mxtsessions
+
 2、在MobaXterm的User sessions右键选择import sessions from file弹框选择导出的xshell.mxtsessions文件载入即可
